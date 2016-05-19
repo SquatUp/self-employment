@@ -1,5 +1,7 @@
 # Mission
 
+[![Join the chat at https://gitter.im/Wasl-Open-Incubator-for-NewComers/roadmap](https://badges.gitter.im/Wasl-Open-Incubator-for-NewComers/roadmap.svg)](https://gitter.im/Wasl-Open-Incubator-for-NewComers/roadmap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Wasl Open Incubator for NewComers** is an informal collective of people with projects who want to build tools and services that create and connect into a vibrant ecosystem in which entrepreneurial newcomers can strive and start their self employment - whether that means freelancing or creating their own businesses.
 
 # Contributors
