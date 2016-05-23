@@ -6,7 +6,7 @@
 * transparency, 
 * transition of know-how between newcomers starting their business and 
 * connection with local supporters (non-profits, incubators etc. and businesses).
-* 
+
 # Contributors
 We come from different walks of life and bootstrap everything we do.
 Every Friday we meet online to coordinate our work on the projects. **Feel free to join :-)** We of course also organise local hacking days (next one: TBA).
