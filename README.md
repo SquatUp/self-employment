@@ -7,6 +7,23 @@
 * transition of know-how between newcomers starting their business and 
 * connection with local supporters (non-profits, incubators etc. and businesses).
 
+# Some of the projects we built and maintain:
+
+**[Wizard Amigos Institute] (https://github.com/wizardamigosinstitute)**
+A Berlin based programming school for kids. Wizard Amigos Institute organises workshops that connect kids from different backgrounds through programming wizardry.
+
+**[eSova] (http://app.esova.rs/)**
+We also work on a platform that we built for the city of Sabac in Serbia in order to reduce high youth unemployment. eSova it's an e-learning platform with educational videos for teaching programming. 
+
+**[RefugeesWork] (http://www.refugeeswork.com/)**
+Is a web platform that help newcomers connect with local organisations.  Locals can help newcomers start their business, offer them volunteering opportunities or hire them as freelance professionals.
+
+**[DigitalSolopreneur] (http://digitalsolopreneur.eu/)**
+Currently in alpha version. It is researching how to open and maintain a company.
+
+**[Micro-Holding Cooperativism] (https://github.com/wizardamigosinstitute/RepPointsServer/issues/10)**
+Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
+
 # Contributors
 We come from different walks of life and bootstrap everything we do.
 Every Friday we meet online to coordinate our work on the projects. **Feel free to join :-)** We of course also organise local hacking days (next one: TBA).
