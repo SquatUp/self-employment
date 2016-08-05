@@ -24,6 +24,9 @@ Currently in alpha version. It is researching how to open and maintain a company
 **[Platform Cooperativism] (https://github.com/Platform-Cooperativism/platform-cooperativism.github.io)**
 Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
 
+**[Virtual Amigos] (https://github.com/virtualamigos)**
+VR / AR makers who would like to co-create projects with like-minded people in the industry.  
+
 # Contributors
 We come from different walks of life and bootstrap everything we do.
 Every Friday we meet online to coordinate our work on the projects. **Feel free to join :-)** We of course also organise local hacking days (next one: TBA).
@@ -40,3 +43,4 @@ You can involve yourself as much as you can afford by either joining one of our 
 
 **Our Projects**
 * https://github.com/SquatUp/roadmap/issues
+* https://waffle.io/SquatUp/roadmap
