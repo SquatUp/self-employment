@@ -21,7 +21,7 @@ Is a web platform that help newcomers connect with local organisations.  Locals 
 **[DigitalSolopreneur] (http://digitalsolopreneur.eu/)**
 Currently in alpha version. It is researching how to open and maintain a company.
 
-**[Micro-Holding Cooperativism] (https://github.com/Micro-Holding-Cooperativism/roadmap)**
+**[Platform Cooperativism] (https://github.com/Platform-Cooperativism/platform-cooperativism.github.io)**
 Exploring processes and legal ways for cooperation and decision making betwen many micro-holdings.
 
 # Contributors
